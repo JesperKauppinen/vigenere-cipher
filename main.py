@@ -51,10 +51,12 @@ if __name__ == "__main__":
             print("Quitting...")
             break
         elif state in ["h", "help"]:
+            print("----------HELP---------")
             print("h, help - this command")
             print("e, encrypt - encrypt")
             print("d, decrypt - decrypt")
             print("q, quit - exit program")
+            print("----------HELP---------")
         else:
             print("Input was invalid. Type help to see all commands avaible.")
 
