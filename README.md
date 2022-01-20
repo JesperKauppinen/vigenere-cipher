@@ -2,6 +2,7 @@
 This project was made as part of the weekly programming challenge hosted by [DevJam]. For this week I didn't have lots of time, but I still wanted to participate and writing encryption algorithm was very interesting. This is my command line version of Vigenère cipher
 
 ## DEMO
+Click to see video :)
 [![Watch the video](https://cdn.discordapp.com/attachments/492188265487532032/933759265997471785/unknown.png)](https://raw.githubusercontent.com/JesperKauppinen/vigenere-cipher/main/demo/vigenere-demo.mp4)
 
 
